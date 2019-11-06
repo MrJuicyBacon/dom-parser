@@ -1,1 +1,1 @@
-from .parser import LinkParser
+from .parser import LinkParser, ContentParser
